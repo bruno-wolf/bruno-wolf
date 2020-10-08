@@ -25,7 +25,7 @@ You are starting to ask too much…
 
 **:wave: Hi there! I’m a junior frontend developer + senior designer.**
 
-<br /><br />
+<br />
 
 
 
@@ -50,18 +50,18 @@ You are starting to ask too much…
 ![pre-processor: Sass](https://img.shields.io/badge/pre--processor-Sass-yellowgreen "pre-processor: Sass")
 ![package manager: npm](https://img.shields.io/badge/package_manager-npm-red "package manager: npm")
 
-<br /><br />
+<br />
 
 ### 🌱 I’m currently learning
 * increasing my JavaScript and React skills 
 
-<br /><br />
+<br />
 
 ### :telescope: Current Work
 * frontend developer and senior designer for [Fitness Hut](https://www.fitnesshut.pt/ "Fitness Hut")
 * available for freelance projects
 
-<br /><br />
+<br />
 
 ### :mailbox: Say 'hello wolf' 
 bruno.m.lobato@gmail.com
