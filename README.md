@@ -38,9 +38,12 @@ You are starting to ask too much…
 ![library: react](https://img.shields.io/badge/library-React-blue?style=flat-square "library: React")
 ![library: reactJS](https://img.shields.io/badge/library-ReactJS-blue?style=flat-square "library: ReactJS")
 ![backend: NodeJS](https://img.shields.io/badge/backend-NodeJS-green?style=flat-square "backend: NodeJS")
+![superset: TypeScript](https://img.shields.io/badge/superset-TypeScript-blue?style=flat-square "superset: TypeScript")
 ![version control: Git](https://img.shields.io/badge/version_control-Git-orange?style=flat-square "version control: Git")
 ![version control: Git Hub](https://img.shields.io/badge/version_control-Git_Hub-orange?style=flat-square "version control: Git Hub")
 ![pre-processor: Sass](https://img.shields.io/badge/pre--processor-Sass-yellowgreen?style=flat-square "pre-processor: Sass")
+![package manager: yarn](https://img.shields.io/badge/package_manager-yarn-red?style=flat-square "package manager: yarn")
+![package manager: npm](https://img.shields.io/badge/package_manager-npm-red?style=flat-square "package manager: npm")
 ![software: VS code](https://img.shields.io/badge/software-VS_code-blueviolet?style=flat-square "software: VS code")
 ![software: Adobe XD](https://img.shields.io/badge/software-Adobe_XD-blueviolet?style=flat-square "software: Adobe XD")
 ![software: Adobe Photoshop](https://img.shields.io/badge/software-Adobe_Photoshop-blueviolet?style=flat-square "software: Adobe Photoshop")
@@ -49,8 +52,7 @@ You are starting to ask too much…
 **Some experience with**<br />
 ![frameworks: CodeIgniter](https://img.shields.io/badge/frameworks-CodeIgniter-lightgrey?style=flat-square "frameworks: CodeIgniter")
 ![backend: PHP](https://img.shields.io/badge/backend-PHP-yellow?style=flat-square "server side: PHP")
-![package manager: yarn](https://img.shields.io/badge/package_manager-yarn-red?style=flat-square "package manager: yarn")
-![package manager: npm](https://img.shields.io/badge/package_manager-npm-red?style=flat-square "package manager: npm")
+
 
 <br />
 
