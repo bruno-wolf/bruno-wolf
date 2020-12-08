@@ -68,7 +68,7 @@ You are starting to ask too much…
 <br />
 
 ### :mailbox: Say 'hello wolf' 
-bruno.m.lobato@gmail.com
+bruno@theycallmewolf.com
 
 <br/><br/>
   
